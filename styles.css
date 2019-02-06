@@ -1,0 +1,30 @@
+img {
+    width: 600px;
+    height: 350px;
+}
+
+.image2 {
+   display: none; 
+}
+
+.text1 {
+   display: none; 
+}
+
+.text2 {
+   display: none; 
+}
+
+.image3 {
+   display: none; 
+}
+
+.text3 {
+   display: none; 
+}
+
+body {
+    text-align: center;
+    background-color: blue;
+    color: yellow;
+}
