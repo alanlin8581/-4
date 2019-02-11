@@ -7,7 +7,7 @@ $("button").dblclick(function(){
 });
 
 $(".image2").mouseenter(function(){
-    $(".text1").show("双击");
+    $(".text1").toggle("双击");
 });
 
 $(".image2").mouseleave(function(){
