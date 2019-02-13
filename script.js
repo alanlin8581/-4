@@ -20,7 +20,7 @@ $(".title").click(function(){
     $(".text3").show("");
 });
 
-$( "祝贺找到宝藏" ).click(function() {
+$( "text3" ).click(function() {
     location.reload();
 });
 
