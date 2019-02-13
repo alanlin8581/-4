@@ -20,3 +20,8 @@ $(".title").click(function(){
     $(".text3").show("");
 });
 
+$( ".text3" ).click(function() {
+    location.reload();
+});
+
+
